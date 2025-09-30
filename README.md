@@ -1,4 +1,5 @@
 # 🏥 Insurance Charges Prediction App
+## 🌐 **[Click Here to See the Model Live!](https://insurance-3u7q.onrender.com/)** 🚀
 
 This project predicts **medical insurance charges** based on personal details such as age, gender, BMI, number of children, smoking habits, and region.  
 It uses a **Machine Learning model** trained on the `insurance.csv` dataset and provides a **Flask web app** interface for user input.
