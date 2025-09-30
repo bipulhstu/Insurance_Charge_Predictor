@@ -1,5 +1,5 @@
 # 🏥 Insurance Charges Prediction App
-## 🌐 **[Click Here to See the Model Live!](https://insurance-3u7q.onrender.com/)** 🚀
+## 🌐 **<a href="https://insurance-3u7q.onrender.com/" target="_blank">Click Here to See the Live Demo!</a>** 🚀
 
 This project predicts **medical insurance charges** based on personal details such as age, gender, BMI, number of children, smoking habits, and region.  
 It uses a **Machine Learning model** trained on the `insurance.csv` dataset and provides a **Flask web app** interface for user input.
@@ -38,6 +38,8 @@ The dataset (`insurance.csv`) contains the following columns:
 
 
 ## 📸 Example UI
+### 🔗 **Live Demo:** <a href="https://insurance-3u7q.onrender.com/" target="_blank">https://insurance-3u7q.onrender.com/</a>
+
 ![App Screenshot](screenshot.png)
 ---
 
